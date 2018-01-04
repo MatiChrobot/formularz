@@ -1,0 +1,21 @@
+body {
+	font-family: verdana;
+    background-color: lightblue;
+	text-align: center;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    font-size: 10px;
+} 
+
+.blad {
+	color: #FF0000;
+	}
+
+input {
+	font-size: 15px;
+}
